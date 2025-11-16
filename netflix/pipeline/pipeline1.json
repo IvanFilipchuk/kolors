@@ -153,7 +153,10 @@
 				"userProperties": [],
 				"typeProperties": {
 					"variableName": "githubmetadata",
-					"value": ""
+					"value": {
+						"value": "@activity('GitHubMetadata').output",
+						"type": "Expression"
+					}
 				}
 			}
 		],

@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-if",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "078d5aeb-342f-4f10-b343-eeab45232d64",
+		"tenantId": "03e811af-3d9a-4677-ad8b-797152d2d12f"
+	}
+}
